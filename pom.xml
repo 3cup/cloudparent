@@ -21,6 +21,8 @@
 
   <!--子模块工厂配置-->
   <modules>
+    <module>webservice</module>
+    <module>common</module>
   </modules>
 
   <!--配置参数-->
